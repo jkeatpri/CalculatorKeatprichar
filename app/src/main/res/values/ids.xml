@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn7" type="id">btn7</item>
+    <item name="etSpace" type="id">etSpace</item>
+    <item name="btn8" type="id">btn8</item>
+    <item name="btn9" type="id">btn9</item>
+</resources>
